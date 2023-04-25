@@ -1,0 +1,14 @@
+__pycache__/
+PASCAL_VOC/
+PEDESTRIAN/
+*.tar
+*.zip
+*.jpg
+*.txt
+*.csv
+*.pth
+*.pt
+.DS_Store*
+.vscode/*
+__pycache__*
+_MACOSX/
